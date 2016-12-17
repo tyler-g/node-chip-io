@@ -50,10 +50,11 @@
   },
   {
     "name": "VCC-1V8",
-    "supportedModes": [],
+    "supportedModes": [2],
     "mode": -1,
     "report": 0,
-    "analogChannel": 127
+    "analogChannel": 127,
+    "chip": "AXP209"
   },
   {
     "name": "BAT",
